@@ -1,0 +1,104 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "index": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "author": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Business-Finance-Law": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Religion": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Natural-History": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Humour": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Computing": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Medical": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Health": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Mind-Body-Spirit": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Crime-Thriller": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Technology-Engineering": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Romance": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Entertainment": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Teen-Young-Adult": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Science-Geography": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Personal-Development": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Biography": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Science-Fiction-Fantasy-Horror": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Poetry-Drama": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "History-Archaeology": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Society-Social-Sciences": {
+      "dtype": "bool",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

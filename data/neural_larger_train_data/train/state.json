@@ -1,0 +1,38 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "dd8d8d97688f15a0",
+  "_format_columns": [
+    "index",
+    "name",
+    "author",
+    "text",
+    "Business-Finance-Law",
+    "Religion",
+    "Natural-History",
+    "Humour",
+    "Computing",
+    "Medical",
+    "Health",
+    "Mind-Body-Spirit",
+    "Crime-Thriller",
+    "Technology-Engineering",
+    "Romance",
+    "Entertainment",
+    "Teen-Young-Adult",
+    "Science-Geography",
+    "Personal-Development",
+    "Biography",
+    "Science-Fiction-Fantasy-Horror",
+    "Poetry-Drama",
+    "History-Archaeology",
+    "Society-Social-Sciences"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}
